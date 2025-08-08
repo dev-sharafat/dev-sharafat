@@ -1,35 +1,18 @@
 ![logo](https://github.com/dev-sharafat/dev-sharafat/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
-#About me
-# Assalamualaikum and Welcome! 👋
+# 💫 About Me:
+# Assalamualaikum and Welcome! 👋<br><br>I’m **Md Sharafat Hassain Binoy**, a passionate **Front-End Developer** from **Rangpur, Dhaka, Bangladesh**.  <br>I specialize in crafting modern, responsive, and user-friendly web applications using tools like **React.js, Next.js, TypeScript, Tailwind CSS, and Shadcn UI**.<br><br>With a strong foundation in **HTML, CSS, and JavaScript**, I focus on building clean, efficient, and scalable interfaces that deliver a smooth user experience. I’m always exploring new technologies, optimizing performance, and turning creative ideas into functional solutions.<br><br>---<br><br>## 💻 Tech Snapshot<br>**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, DaisyUI, Bootstrap, Shadcn UI  <br>**Tools:** Git, VS Code, Figma, Firebase, TanStack Query  <br><br>---<br><br>## 🚀 What I Love Doing<br>- Building modern, responsive UIs  <br>- Collaborating on innovative web projects  <br>- Learning and applying new technologies  <br>- Writing clean, maintainable code  <br><br>---<br><br>## 🤝 Let’s Connect<br>I’m always open to collaborating with like-minded developers or contributing to impactful projects.  <br><br>📧 **Email:** your-email@example.com  <br>🌐 **Portfolio:** [your-portfolio-link](https://your-portfolio-link.com)  <br>💼 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/yourusername)  <br>🐦 **Twitter:** [your-twitter-handle](https://twitter.com/yourusername)  <br><br>---<br>⭐ _“Always curious, always building.”_<br>
 
-I’m **Md Sharafat Hassain Binoy**, a passionate **Front-End Developer** from **Rangpur, Dhaka, Bangladesh**.  
-I specialize in crafting modern, responsive, and user-friendly web applications using tools like **React.js, Next.js, TypeScript, Tailwind CSS, Bootstrap,DaisyUI and Shadcn UI**.
 
-With a strong foundation in **HTML, CSS, and JavaScript**, I focus on building clean, efficient, and scalable interfaces that deliver a smooth user experience. I’m always exploring new technologies, optimizing performance, and turning creative ideas into functional solutions.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sharafat.mdsharafat.5000/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sharafatbinoy-519697379) 
 
----
-
-## 💻 Tech Snapshot
-**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, DaisyUI, Bootstrap, Shadcn UI  
-**Tools:** Git, VS Code, Figma, Firebase, TanStack Query  
-
----
-
-## 🚀 What I Love Doing
-- Building modern, responsive UIs  
-- Collaborating on innovative web projects  
-- Learning and applying new technologies  
-- Writing clean, maintainable code  
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dev-sharafat&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dev-sharafat&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sharafat&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
-## 🤝 Let’s Connect
-I’m always open to collaborating with like-minded developers or contributing to impactful projects.  
-
-📧 **Email:engsharafat23@gmail.com   
-💼 **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/yourusername)  
- 
-
----
-⭐ _“Always curious, always building.”_
+[![](https://visitcount.itsvg.in/api?id=dev-sharafat&icon=0&color=0)](https://visitcount.itsvg.in)
